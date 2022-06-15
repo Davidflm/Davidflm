@@ -8,3 +8,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open startup
 - ⚡ Fun fact: ...
 
+###Habilidades
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Davidflm=anuraghazra&show_icons=true&theme=dark)
+
+###Detalhes 
+
+###Projetos
+
+### Linguagens
+
