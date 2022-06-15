@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davidflm&repo=github.com/Davidflm/projeto-sds3)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davidflm&repo=Davidflm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens
 
