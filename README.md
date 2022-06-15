@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 
 ###Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davidflm&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidflm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
