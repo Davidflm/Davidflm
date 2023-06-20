@@ -7,13 +7,17 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidflm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projeto
+### Projeto 01
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davidflm&repo=dm-money&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davidflm&repo=tiktokClone&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projeto 02
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davidflm&repo=projeto-SDS3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dm-money&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiktokClone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
