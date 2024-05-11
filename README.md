@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 ###### Sobre o David Flávio
- Sempre fui entusiasta da tecnologia, trabalhei com Infra (redes e servidores) por mais de 15 anos e há 5 anos entrei para o mundo do Desenvolvimento e me apaixonando cada vez mais, agora focando em linguagens baseadas em JavaScript mas com o objetivo de ser um programador FullStack.
+ Sempre fui entusiasta da tecnologia, trabalhei com Infra (redes e servidores) por mais de 15 anos e há 5 anos entrei para o mundo do Desenvolvimento e me apaixonando cada vez mais, agora focando em linguagens baseadas em JavaScript mas com o objetivo de ser um programador FullStack. Atualmente trabalho com Java há mais de três anos, e tenho buscado a cada dia me aperfeiçoar e ampliar meus conhecimentos.
 
 ### Detalhes
 
